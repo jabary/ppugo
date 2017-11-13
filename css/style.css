@@ -1,0 +1,90 @@
+
+.badge-style{
+	background-color: #fff;
+	color: #337ab7;
+}
+.container1 > * {
+    display: inline-block;
+}
+
+.nav-custome{
+	background-color: #000;
+	color: white;
+	border-color: #000;
+}
+
+.nav-font-color{
+	color: #fff;
+}
+
+.lead {
+
+	color: #00ffff;
+}
+
+.act1{
+	background: #ccc;
+	padding: 5px;
+	margin: 5px;
+}
+
+.act{
+	background: #ccc;
+	padding: 5px;
+	margin: 5px;
+}
+
+.logo{
+	padding: 10px;
+}
+
+body{
+	margin-top: 70px;
+}
+
+.odd{
+	background:#F5F5F5;
+	padding:5px;
+	margin-bottom:5px;
+	clear:both;
+	overflow:auto;
+}
+
+.even {
+	background: #D3DCE3;
+	padding: 5px;
+	clear:both;
+	margin-bottom:5px;
+	overflow:auto;
+}
+
+.reportinfo{
+	width:75%;
+	padding:3px;
+	float:left;
+}
+
+.reportlink{
+	width:25%;
+	padding:3px;
+	float:left;
+}
+
+.reportlink img{
+	float:right;
+	padding: 10px;
+}
+
+.vioimage{
+	padding:5px;
+	background:#fff;
+	margin:5px;
+}
+
+
+
+
+
+
+
+}
